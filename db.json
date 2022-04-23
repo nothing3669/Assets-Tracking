@@ -3,6 +3,8 @@
     {
       "date": "2022-04-23",
       "description": "Assets Tracking Link Added",
-      "link": "https://sheet.best/api/sheets/2006dcdc-e866-4901-9921-b317eb1341ac"
+      "link": "https://sheet.best/api/sheets/2006dcdc-e866-4901-9921-b317eb1341ac",
+      "limit": 10,
+      "warningLevel": 7
     }
 }
